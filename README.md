@@ -26,5 +26,4 @@
 8.  Payment 'ateway
 9.  Deployment
 10. Fundamental Mobile Development
-11. Advance Mobile Development
-12. 
+11. Advance Mobile Development 
